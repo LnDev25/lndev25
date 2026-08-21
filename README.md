@@ -2,13 +2,13 @@
 
 ### 🚀 Aspirante a Desenvolvedor Back-End até o Full-Stack | Estudante de ADS na Estácio
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver problemas através do código. Atualmente, estou transicionando minha carreira de Infraestrutura/TI para o **Desenvolvimento de Software**, buscando me tornar um desenvolvedor **Full-Stack**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver problemas através do código. Atualmente, estou transicionando minha carreira de Infraestrutura/TI para o **Desenvolvimento de Software**, buscando me tornar um desenvolvedor **Back-End**.
 
 ---
 
 ### 💡 Sobre Mim
 
-- 🎓 **Educação:** 2º semestre de **Análise e Desenvolvimento de Sistemas** (Centro Universitário Estácio).
+- 🎓 **Educação:** 3º semestre de **Análise e Desenvolvimento de Sistemas** (Centro Universitário Estácio).
 - 🐍 **Foco Atual:** Desenvolvimento Python integrado com IA e lógica de programação avançada.
 - ☕ **Aprendizado:** Expandindo horizontes com **Java** (FIAP) e estruturas de dados.
 - 💼 **Experiência em TI:** +3 anos de experiência em suporte técnico e infraestrutura.
@@ -87,13 +87,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver 
 
 ### 🚀 Aspiring Back-End and Full-Stack Developer | IT Specialist | ADS Student @ Estácio
 
-I am a **Software Analysis and Development** student, focused on solving problems through code. Currently transitioning from IT Infrastructure to **Software Development**, aiming to become a **Full-Stack** developer.
+I am a **Software Analysis and Development** student, focused on solving problems through code. Currently transitioning from IT Infrastructure to **Software Development**, aiming to become a **Back-End** developer.
 
 ---
 
 ### 💡 About Me
 
-- 🎓 **Education:** 2nd semester of **Software Analysis and Development** (Estácio University Center).
+- 🎓 **Education:** 3nd semester of **Software Analysis and Development** (Estácio University Center).
 - 🐍 **Current Focus:** Python development integrated with AI and advanced programming logic.
 - ☕ **Learning Path:** Expanding horizons with **Java** (FIAP) and Data Structures.
 - 💼 **IT Background:** 3+ years of experience in technical support and infrastructure.
@@ -103,11 +103,11 @@ I am a **Software Analysis and Development** student, focused on solving problem
 
 ### 📚 Courses & Certifications
 
-* ☕ [**Java Development** - FIAP](https://www.linkedin.com/in/lucas-nathan-5408941b5/overlay/Certifications/2113603252/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
-* 🌐 [**Web Systems Development (Basic)** - RECODE](https://www.linkedin.com/in/lucas-nathan-5408941b5/overlay/Certifications/2113486998/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
-* 🐍 [**Python 3 (Level 1)** - Curso em Vídeo](https://www.linkedin.com/in/lucas-nathan-5408941b5/overlay/Certifications/895101508/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
+* ☕ [**Java Development** - FIAP](https://www.linkedin.com/in/lndev25/overlay/Certifications/2113603252/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
+* 🌐 [**Web Systems Development (Basic)** - RECODE](https://www.linkedin.com/in/lndev25/overlay/Certifications/2113486998/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
+* 🐍 [**Python 3 (Level 1)** - Curso em Vídeo](https://www.linkedin.com/in/lndev25/overlay/Certifications/895101508/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
 * ⚙️ [**Programming Logic** - Trybe](https://www.linkedin.com/feed/update/urn:li:activity:7374609817190985729/)
-* 🧠 **Programming Logic Fundamentals** - Santander / DIO
+* 🧠 [**Programming Logic Fundamentals** - Santander / DIO](https://www.linkedin.com/in/lndev25/overlay/Certifications/2016470751/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
 * 🤖 **Python Development with AI (Gemini)** - Google / DIO
 
 ---
