@@ -38,13 +38,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver 
 ### 📚 Cursos & Certificações
 *(Clique para visualizar o certificado no LinkedIn)*
 
-* ☕ [**Java Development** - FIAP](https://www.linkedin.com/in/lucas-nathan-5408941b5/overlay/Certifications/2113603252/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
-* 🌐 [**Desenvolvimento de Sistemas Web (Básico)** - RECODE](https://www.linkedin.com/in/lucas-nathan-5408941b5/overlay/Certifications/2113486998/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
-* 🐍 [**Python 3 (Mundo 1)** - Curso em Vídeo](https://www.linkedin.com/in/lucas-nathan-5408941b5/overlay/Certifications/895101508/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
+* ☕ [**Java Development** - FIAP](https://www.linkedin.com/in/lndev25/overlay/Certifications/2113603252/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
+* 🌐 [**Desenvolvimento de Sistemas Web (Básico)** - RECODE](https://www.linkedin.com/in/lndev25/overlay/Certifications/2113486998/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
+* 🐍 [**Python 3 (Mundo 1)** - Curso em Vídeo](https://www.linkedin.com/in/lndev25/overlay/Certifications/895101508/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
 * ⚙️ [**Lógica de Programação** - Trybe](https://www.linkedin.com/feed/update/urn:li:activity:7374609817190985729/)
-* 🧠 **Fundamentos de Lógica de Programação** - Santander / DIO
+* 🧠 [**Fundamentos de Lógica de Programação** - Santander / DIO](https://www.linkedin.com/in/lndev25/overlay/Certifications/2016470751/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o).
 * 🤖 **Desenvolvimento Python com IA (Gemini)** - Google IA
-
 ---
 
 ### 📊 Atividades e Estatísticas
