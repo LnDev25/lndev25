@@ -2,7 +2,7 @@
 
 ### 🚀 Aspirante a Desenvolvedor Back-End até o Full-Stack | Estudante de ADS na Estácio
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver problemas através do código. Atualmente, estou transicionando minha carreira de Infraestrutura/TI para o **Desenvolvimento de Software**, buscando me tornar um desenvolvedor **Back-End**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver problemas através do código. Atualmente, estou em transição de carreira de Infraestrutura/TI para o **Desenvolvimento de Software**, buscando me tornar um desenvolvedor **Back-End**.
 
 ---
 
@@ -10,7 +10,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver 
 
 - 🎓 **Educação:** 3º semestre de **Análise e Desenvolvimento de Sistemas** (Centro Universitário Estácio).
 - 🐍 **Foco Atual:** Desenvolvimento Python integrado com IA e lógica de programação avançada.
-- ☕ **Aprendizado:** Expandindo horizontes com **Java** (FIAP) e estruturas de dados.
+- ☕ **Aprendizado:** Expandindo horizontes com **Java** e outras linguagens focadas no back-end.
 - 💼 **Experiência em TI:** +3 anos de experiência em suporte técnico e infraestrutura.
 - 🌍 **Idiomas:** Estudando inglês para comunicação global (English Backstage).
 
@@ -95,7 +95,7 @@ I am a **Software Analysis and Development** student, focused on solving problem
 
 - 🎓 **Education:** 3nd semester of **Software Analysis and Development** (Estácio University Center).
 - 🐍 **Current Focus:** Python development integrated with AI and advanced programming logic.
-- ☕ **Learning Path:** Expanding horizons with **Java** (FIAP) and Data Structures.
+- ☕ **Learning Path:** Expanding horizons with **Java** and other back-end-focused languages.
 - 💼 **IT Background:** 3+ years of experience in technical support and infrastructure.
 - 🌍 **Languages:** Native Portuguese | Improving **English** for global communication (English Backstage).
 
@@ -108,7 +108,7 @@ I am a **Software Analysis and Development** student, focused on solving problem
 * 🐍 [**Python 3 (Level 1)** - Curso em Vídeo](https://www.linkedin.com/in/lndev25/overlay/Certifications/895101508/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
 * ⚙️ [**Programming Logic** - Trybe](https://www.linkedin.com/feed/update/urn:li:activity:7374609817190985729/)
 * 🧠 [**Programming Logic Fundamentals** - Santander / DIO](https://www.linkedin.com/in/lndev25/overlay/Certifications/2016470751/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
-* 🤖 **Python Development with AI (Gemini)** - Google / DIO
+* 🤖 **Python Development with AI (Gemini)** - Google Gemini
 
 ---
 
