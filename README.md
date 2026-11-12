@@ -1,18 +1,20 @@
 # Olá, me chamo Lucas Nathan! 👋
 
-### 🚀 Aspirante a Desenvolvedor Back-End até o Full-Stack | Estudante de ADS na Estácio
+### 🚀 Aspirante a Desenvolvedor Back-End até o Full-Stack | Estudante de ADS na Estácio 
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver problemas através do código. Atualmente, estou em transição de carreira de Infraestrutura/TI para o **Desenvolvimento de Software**, buscando me tornar um desenvolvedor **Back-End**.
+Estudante de **Análise e Desenvolvimento de Sistemas** com sólida base em **Suporte Técnico e Infraestrutura de TI**, em transição de carreira para o **Desenvolvimento de Software com foco em Back-End**. Experiência prática na resolução de problemas, atendimento a usuários e gestão de ambientes tecnológicos. Atualmente desenvolvendo **projetos práticos pessoais e da graduação**, aprimorando habilidades técnicas e estudando **inglês** para atuação em cenários globais. Busco oportunidade para aplicar conhecimentos teóricos e práticos em um ambiente profissional para me me desenvolver.
+
+Atualmente, estou focado em construir soluções robustas utilizando **diferentes linguagens**, explorando a integração com **Inteligência Artificial**, e expandindo meus horizontes no futuro para **Engenharia de Software** e **Cibersegurança**.
 
 ---
 
 ### 💡 Sobre Mim
 
-- 🎓 **Educação:** 3º semestre de **Análise e Desenvolvimento de Sistemas** (Centro Universitário Estácio).
-- 🐍 **Foco Atual:** Desenvolvimento Python integrado com IA e lógica de programação avançada.
-- ☕ **Aprendizado:** Expandindo horizontes com **Java** e outras linguagens focadas no back-end.
-- 💼 **Experiência em TI:** +3 anos de experiência em suporte técnico e infraestrutura.
-- 🌍 **Idiomas:** Estudando inglês para comunicação global (English Backstage).
+- 🎓 **Educação:** Em andamento **Análise e Desenvolvimento de Sistemas** (Centro Universitário Estácio).
+- 🐍 **Foco Atual:** Desenvolvimento de lógica de programação avançada e engenharia de software.
+- ☕ **Aprendizado:** Expandindo horizonte com outras linguagens focadas no back-end, focando no futuro da engenharia e curioso com a cibersegurança.
+- 💼 **Experiência em TI:** +5 anos de experiência em suporte técnico e infraestrutura.
+- 🌍 **Idiomas:** Estudando inglês para comunicação global.
 
 ---
 
