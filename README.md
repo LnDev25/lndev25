@@ -9,11 +9,14 @@ Atualmente, estou focado em construir soluções robustas utilizando **diferente
 ---
 
 ### 💡 Sobre Mim
-
 - 🎓 **Educação:** Em andamento **Análise e Desenvolvimento de Sistemas** (Centro Universitário Estácio).
+- 
 - 🐍 **Foco Atual:** Desenvolvimento de lógica de programação avançada e engenharia de software.
+- 
 - ☕ **Aprendizado:** Expandindo horizonte com outras linguagens focadas no back-end, focando no futuro da engenharia e curioso com a cibersegurança.
+- 
 - 💼 **Experiência em TI:** +5 anos de experiência em suporte técnico e infraestrutura.
+- 
 - 🌍 **Idiomas:** Estudando inglês para comunicação global.
 
 ---
@@ -85,21 +88,24 @@ Atualmente, estou focado em construir soluções robustas utilizando **diferente
 
 ---
 
-# Hi, I'm Lucas Nathan! 👋
+### Hi, I'm Lucas Nathan! 👋
+### 🚀 Back-End to Full-Stack Developer Aspirant | Systems Analysis & Development Student at Estácio
+Systems Analysis and Development student with a strong foundation in IT Technical Support and Infrastructure, currently transitioning careers into Software Development with a focus on Back-End. Hands-on experience in problem-solving, user support, and technological environment management. Currently developing practical personal and academic projects, sharpening my technical skills, and actively studying English for global environments. I am looking for an opportunity to apply my theoretical and practical knowledge in a professional setting and grow as a developer.
 
-### 🚀 Aspiring Back-End and Full-Stack Developer | IT Specialist | ADS Student @ Estácio
-
-I am a **Software Analysis and Development** student, focused on solving problems through code. Currently transitioning from IT Infrastructure to **Software Development**, aiming to become a **Back-End** developer.
+Right now, I am focused on building robust solutions using various programming languages, exploring Artificial Intelligence integration, and expanding my horizons toward Software Engineering and Cybersecurity in the future.
 
 ---
 
 ### 💡 About Me
+🎓 Education: B.S. in Systems Analysis and Development in progress (Centro Universitário Estácio).
 
-- 🎓 **Education:** 3nd semester of **Software Analysis and Development** (Estácio University Center).
-- 🐍 **Current Focus:** Python development integrated with AI and advanced programming logic.
-- ☕ **Learning Path:** Expanding horizons with **Java** and other back-end-focused languages.
-- 💼 **IT Background:** 3+ years of experience in technical support and infrastructure.
-- 🌍 **Languages:** Native Portuguese | Improving **English** for global communication (English Backstage).
+🐍 Current Focus: Advanced programming logic and software engineering.
+
+☕ Learning: Expanding my horizons with other back-end-focused languages, looking into the future of engineering, and exploring cybersecurity out of curiosity.
+
+💼 IT Experience: 5+ years of experience in technical support and infrastructure.
+
+🌍 Languages: Studying English for global communication.
 
 ---
 
