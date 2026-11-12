@@ -10,13 +10,9 @@ Atualmente, estou focado em construir soluções robustas utilizando **diferente
 
 ### 💡 Sobre Mim
 - 🎓 **Educação:** Em andamento **Análise e Desenvolvimento de Sistemas** (Centro Universitário Estácio).
-- 
 - 🐍 **Foco Atual:** Desenvolvimento de lógica de programação avançada e engenharia de software.
-- 
 - ☕ **Aprendizado:** Expandindo horizonte com outras linguagens focadas no back-end, focando no futuro da engenharia e curioso com a cibersegurança.
-- 
 - 💼 **Experiência em TI:** +5 anos de experiência em suporte técnico e infraestrutura.
-- 
 - 🌍 **Idiomas:** Estudando inglês para comunicação global.
 
 ---
